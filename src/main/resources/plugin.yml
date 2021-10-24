@@ -1,0 +1,4 @@
+name: Exam Base Program
+version: '${project.version}'
+main: world.arainu.core.exambaseprogram.ExamBaseProgram
+api-version: 1.17
